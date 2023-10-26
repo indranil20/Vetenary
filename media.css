@@ -1,0 +1,110 @@
+/* navbar */
+@media (max-width:1180px) and (min-width:991.95px) {
+    .nav-link{
+        font-size: 2.4vw;
+    }
+    .navbar.b{
+        padding: 34px 1%;
+    }
+}
+/* banner */
+@media (max-width:1200px) and (min-width:991.95px){
+    .ban-title{
+        font-size: 5.5vw;
+    }
+    .ban-text{
+        font-size: 2.5vw !important;
+    }
+    .ban-img{
+        margin-right: 0 !important;
+    }
+    .text-prt{
+        padding-left: 100px; 
+        margin-bottom: 190px; 
+        padding-top: 120px;
+    }
+}
+@media (max-width:991.95px){
+    .text-prt{
+        padding-top: 0;
+        padding-left: 5%;
+        text-align: center;
+    }
+    .ban-img{
+        margin: 0;
+        margin-top: 50px;
+        width: 100%;
+    }
+    .ban-img-div{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .a-title{
+        font-size: 3.7vw;
+    }
+    .opt{
+        font-size: 2.4vw;
+    }
+}
+@media (max-width:1115px) and (min-width:991.95px){
+    .header-btn .ban-btn-res{
+        padding-left: 26px !important;
+        padding-right: 26px !important;
+        padding-top: 13px !important;
+        padding-bottom: 13px !important;
+    }
+}
+@media (max-width:480px){
+    .header-btn .ban-btn-res{
+        font-size: 4vw !important;
+        padding: 10px 5% !important;
+    }
+    .ban-title{
+        font-size: 14vw;
+    }
+    .ban-text{
+        font-size: 6vw;
+        line-height: normal;
+    }
+    .serv-btn{
+        font-size: 4vw !important;
+        padding: 10px 5% !important;
+    }
+    .dog-img .buy{
+        font-size: 5vw !important;
+        width: 50%;
+        height: 10%;
+    }
+    .price{
+        font-size: 9vw;
+    }
+}
+/* 2nd sec */
+@media (max-width:991.95px) and (min-width:768px){
+    .title{
+        font-size: 5vw;
+        margin-top: 0;
+    }
+    .text{
+        font-size: 3vw;
+    }
+}
+@media (max-width:380px){
+    .title{
+        font-size: 13vw;
+        line-height: normal;
+    }
+    .text{
+        font-size: 7.5vw;
+        line-height: normal;
+    }
+}
+@media (max-width:440px){
+    .bgy-title{
+        font-size: 16vw;
+    }
+    .bgy-text{
+        font-size: 7vw;
+        margin-bottom: 50px;
+    }
+}
